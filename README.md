@@ -19,10 +19,7 @@ suitable join key, such as the restaurant ID. This join will create a unified da
 The analysis of the combined dataset can provide valuable insights to inform Zomato's strategy and decision-making processes. Start by examining the distribution of restaurants across different locations and cities. Create a table visualization in Tableau to showcase the number of restaurants in each city, sorted in descending order. This will help identify cities with a high concentration of restaurants and guide Zomato's marketing efforts and restaurant partnerships.
 
  
-
-The dataset provided to you has the following two tables and their details are as follows:
-
- 
+# Dataset Description 
 
 Table – Location:The "Location" table contains information about various restaurants, including their names, locations, localities, cities, and cuisines. The table has the following columns:
 
