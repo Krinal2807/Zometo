@@ -45,8 +45,8 @@ Cuisine: The type of cuisine served by the restaurant. It may include multiple c
 Table – Rating: The "Rating" table provides details about the ratings, votes, and cost of various restaurants. The table includes the following columns:
 
  
-
 r_id: A unique identifier for each restaurant.
+
 
 Rating: The average rating of the restaurant, indicating customer satisfaction.
 
