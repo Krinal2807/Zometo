@@ -1,8 +1,8 @@
 # Zometo
 
-Zomato – Data Fusion & Restaurant Analysis
+# Zomato – Data Fusion & Restaurant Analysis
 
-Description
+# Description
 
 Zomato is a leading online food delivery platform that connects customers with a wide range of restaurants. With a vast network of partner restaurants, Zomato aims to offer diverse culinary options to its users. The dataset provided includes two tables: "Location" and "Rating." The "Location" table contains crucial information about restaurants, such as their names, locations, cuisines, and cities. The "Rating" table provides insights into restaurant performance, including ratings, votes, and cost details. This dataset will serve as a valuable resource for Zomato to analyze restaurant data and gain insights into customer preferences, allowing for better decision-making and strategy formulation.
 
@@ -24,7 +24,7 @@ The dataset provided to you has the following two tables and their details are a
 
  
 
-Table – Location: The "Location" table contains information about various restaurants, including their names, locations, localities, cities, and cuisines. The table has the following columns:
+Table – Location:The "Location" table contains information about various restaurants, including their names, locations, localities, cities, and cuisines. The table has the following columns:
 
  
 
