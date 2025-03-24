@@ -51,3 +51,11 @@ Votes: The total number of votes received by the restaurant.
 
 Cost: The average cost of dining at the restaurant, providing an indication of price range.
 
+
+# Features
+
+-Restaurant Distribution:
+   Counted restaurants by city and locality.
+   Identified high-density restaurant areas.
+
+
