@@ -54,8 +54,29 @@ Cost: The average cost of dining at the restaurant, providing an indication of p
 
 # Features
 
--Restaurant Distribution:
-   Counted restaurants by city and locality.
-   Identified high-density restaurant areas.
+# 📚 Restaurant Distribution:
+
+   - Counted restaurants by city and locality.
+   
+   - Identified high-density restaurant areas.
+
+# 🍽️ Cuisine Analysis:
+
+   - Highlighted top cuisines in major cities.
+
+   - Analyzed variety of cuisines per restaurant.
+
+# ⭐ Rating Analysis:
+
+   - Examined average ratings by city and locality.
+
+   - Correlated votes with customer satisfaction.
+
+# 💰 Cost Analysis:
+
+   - Analyzed cost vs. rating distribution.
+
+   - Identified optimal price ranges.
+ 
 
 
